@@ -3,7 +3,7 @@ const Footer = () => {
   
     return (
       <footer>
-        <p>© {currentYear} NodeByte LTD. All rights reserved.</p>
+        <p>© {currentYear} NodeByteLTD. All rights reserved.</p>
       </footer>
     );
   };

@@ -38,7 +38,7 @@ const config: DocsThemeConfig = {
       <meta property="twitter:card" content="summary" />
       <meta property="twitter:title" content="%s - NodeByte Documentation" />
       <meta property="twitter:description" content="Welcome to the NodeByte Hosting Documentation! Explore guides, troubleshooting tips, and best practices to make the most of our hosting services." />
-      <meta property="twitter:url" content="https://docs.nodebyte.host/" />
+      <meta property="twitter:url" content="https://x.com/NodeByteHosting" />
       <link rel="icon" type="image/png" href="https://beta.nodebyte.host/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLogo-Black.34859308.png&w=96&q=75" />
     </>
   ),

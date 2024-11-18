@@ -1,5 +1,6 @@
 {
   "index": "Introduction",
+  "Legal": "Legal",
   "Billing": "Billing Panel",
   "Panel": "Panel",
   "Troubleshooting": "Troubleshooting",
@@ -9,9 +10,15 @@
     "type": "page"
   },
   "Website": {
-    "title": "Website",
+    "title": "Hosting",
     "type": "page",
     "href": "https://nodeByte.host",
+    "newWindow": true
+  },
+  "LTD": {
+    "title": "LTD Site",
+    "type": "page",
+    "href": "https://nodeByte.co.uk/",
     "newWindow": true
   },
   "contact": {
